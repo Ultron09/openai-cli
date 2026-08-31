@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.10.0](https://github.com/openai/openai-cli/compare/v1.9.0...v1.10.0) (2026-08-31)
+
+
+### Features
+
+* **api:** add compute_units to Responses and Chat Completions usage ([#142](https://github.com/openai/openai-cli/issues/142)) ([fe626c6](https://github.com/openai/openai-cli/commit/fe626c6411f106422aba65bcb989db70e12a366e))
+* **api:** make function call output call IDs optional ([#140](https://github.com/openai/openai-cli/issues/140)) ([0cb94ba](https://github.com/openai/openai-cli/commit/0cb94baec8f39fa26ad2bbf815c4b0aabded2213))
+
+
+### Chores
+
+* **deps:** update openai-go to v3.54.0 ([#139](https://github.com/openai/openai-cli/issues/139)) ([23ade14](https://github.com/openai/openai-cli/commit/23ade14892181599ea69cbb886f48494fcb56dfe))
+
 ## [1.9.0](https://github.com/openai/openai-cli/compare/v1.8.0...v1.9.0) (2026-08-26)
 
 
